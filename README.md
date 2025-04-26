@@ -21,7 +21,7 @@ In case of the firewall breaking things:
 1. run LightProt.sh
 2. Emergency flusher
 
-##Emergency Flusher
+## Emergency Flusher
 > BE CAREFULL, IT WIPES YOUR FIREWALL RULES!
 > RUN ON YOUR OWN RISK!
 
@@ -31,6 +31,6 @@ chmod +x emergency.sh
 sudo ./emergency.sh
 ```
 
-##License
+## License
 
 QKOL v3
