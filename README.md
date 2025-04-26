@@ -27,7 +27,7 @@ In case of the firewall breaking things:
 > RUN ON YOUR OWN RISK!
 
 ```bash
-wget -O ermergency.sh https://raw.githubusercontent.com/QKing-Official/LightProt/refs/heads/main/emergency.sh
+wget -O emergency.sh https://raw.githubusercontent.com/QKing-Official/LightProt/refs/heads/main/emergency.sh
 chmod +x emergency.sh
 sudo ./emergency.sh
 ```
