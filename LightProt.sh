@@ -1239,7 +1239,8 @@ apply_all_protections() {
 main_menu() {
     clear
     echo -e "${BLUE}====================================================${NC}"
-    echo -e "${BLUE}===     Advanced DDoS Protection Script v2.0     ===${NC}"
+    echo -e "${BLUE}===                 LightProt v1                 ===${NC}"
+    echo -e "${BLUE}===                 by QKing                     ===${NC}"
     echo -e "${BLUE}====================================================${NC}"
     echo -e " Status: $(cat "$STATUS_FILE" 2>/dev/null || echo "UNKNOWN")  | Config: $CONFIG_FILE"
     echo -e "----------------------------------------------------"
