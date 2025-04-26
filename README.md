@@ -22,7 +22,7 @@ In case of the firewall breaking things:
 2. Emergency flusher
 
 ## Emergency Flusher
-> BE CAREFULL, IT WIPES YOUR FIREWALL RULES!
+> BE CAREFULL, IT WIPES YOUR FIREWALL RULES!/n
 > RUN ON YOUR OWN RISK!
 
 ```bash
